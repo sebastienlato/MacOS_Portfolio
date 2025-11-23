@@ -106,7 +106,7 @@ const techStack = [
     },
     {
         category: "Mobile",
-        items: ["React Native", "Expo"],
+        items: ["React Native", "Expo", "Swift", "SwiftUI"],
     },
     {
         category: "Styling",
